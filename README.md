@@ -6,8 +6,8 @@ This piece is a short analysis on Boston Housing Price prediction using Regressi
 
 Golas: 
 
-- Identifying the best linear regression for predicting boston housing price
+- Check the essential assumption of linear regression model 
 - Study the performance of different models
-- Check the essential assumption of linear regression model
+- Identifying the best linear regression for predicting boston housing price
 - Identifying the outliers and high influence points for improving the model performance. 
 
