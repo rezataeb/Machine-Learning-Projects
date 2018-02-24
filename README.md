@@ -2,7 +2,7 @@
 
 ## First project : "Boston Housing Price"
 
-This piece is about Boston Housing Price prediction using linear Regression. 
+This piece is about Boston Housing Price prediction using Linear Regression. 
 
 Goals: 
 
