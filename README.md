@@ -21,3 +21,18 @@ Goals:
 - Find the best regularization parameter using cross-validation
 - Find the best fitted model with the best regularization parameter. 
 - Draw a classifier based on the model. 
+
+
+## Third project : "Text Classification"
+
+This peice is an attempt to analyze the text using a subset of movie reviews from the rotten tomatoes database. 
+
+Goals : 
+
+- Use the vector space model and a search engine 
+- Use Naive Bayes model (Multinomial and other likelihood function) 
+- Find the best fitted model with the log_likelihood for scoring 
+- Predicting the freshness for a new review 
+- Use TF-IDF weighting instead of word count to improve the model 
+- Try Random Forest algorithm and compare the result with the previous models 
+
