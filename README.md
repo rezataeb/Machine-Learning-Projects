@@ -36,7 +36,7 @@ Goals :
 - Use TF-IDF weighting instead of word count to improve the model 
 - Try Random Forest algorithm and compare the result with the previous models 
 
-## Fourth Project : "Clustering" 
+## Fourth Project : "Customer Segmentation Using Clustering" 
 
 This piece is an 
 
