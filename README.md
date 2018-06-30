@@ -25,7 +25,7 @@ Goals:
 
 ## Third project : "Text Classification"
 
-This peice is an attempt to analyze the text using a subset of movie reviews from the rotten tomatoes database. 
+This piece is an attempt to analyze the text using a subset of movie reviews from the rotten tomatoes database. 
 
 Goals : 
 
@@ -35,4 +35,8 @@ Goals :
 - Predicting the freshness for a new review 
 - Use TF-IDF weighting instead of word count to improve the model 
 - Try Random Forest algorithm and compare the result with the previous models 
+
+## Fourth Project : "Clustering" 
+
+This piece is an 
 
