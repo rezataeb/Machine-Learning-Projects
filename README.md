@@ -38,5 +38,12 @@ Goals :
 
 ## Fourth Project : "Customer Segmentation Using Clustering" 
 
-This piece is an 
+In this piece k-means clustering technique is applied on the customer segmentation problem and associated accuracy metrics are studied. 
+
+Golas : 
+
+- Use different techniques (Elbow methods, Silhouette methods, Gap Statistic, etc) to choose K as number of clusters
+- Visualizing Clusters using PCA (Principal Component Analysis)
+- Study the "number of components" factor in PCA and its relationship with Explained variance
+- Use other clustering algorithms such as "Affinity Propagation", "Spectral Clustering", "Agglomerative Clustering", and      "DBSCAN". 
 
